@@ -1,0 +1,4 @@
+testcases_stepdef\Hooks.class
+testcases_stepdef\PIMSteps.class
+runner\TestRunner.class
+testcases_stepdef\AdminStep.class
